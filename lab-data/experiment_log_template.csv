@@ -1,0 +1,3 @@
+Experiment_ID,Date,Strain,Condition,OD600_Start,OD600_End,Fluorescence_Intensity,PHA_Yield_mg_L,Notes
+EXP_001,2025-01-01,E.coli_BL21,Control,0.1,1.5,0,0,Baseline measurement
+EXP_002,2025-01-02,E.coli_BioSentez_v1,Pb_10ppm,0.1,1.2,500,120,First trial with Lead
